@@ -1,7 +1,6 @@
-# Traffic_Light
-A good assignment for the beginners with Embedded Systems field
+# Traffic light
 After each 20 seconds the led which is opened will change (The counter begins from 0)
-# Hard_Ware_Used
+# HardWare used
 Atmega32, three leds (green, yellow, red ) and two SevenSegments
 # Demo
 ![Farmers Market Finder Demo](Demo.gif)
