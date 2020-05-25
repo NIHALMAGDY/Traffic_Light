@@ -4,7 +4,8 @@ After each 20 seconds the led which is opened will change (The counter begins fr
 # Hard_Ware_Used
 Atmega32, three leds (green, yellow, red ) and two SevenSegments
 # Demo
-Note : The demo was speeded up
 ![Farmers Market Finder Demo](Demo.gif)
+# Notes
+Note : The demo was speeded up
 
 
